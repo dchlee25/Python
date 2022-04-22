@@ -1,2 +1,2 @@
 # Python
-Python "Compiling" and "Sources" And "Practice" Then &lt;&lt;Using>>
+Python "Compiling, Sources, Practice" And 😀Communicating😄
