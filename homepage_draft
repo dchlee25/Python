@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>DChLee Homepage</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <link rel="icon" href="DChLee.ico">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,700;1,900&family=Montserrat:ital,wght@0,100;0,500;1,700;1,900&family=Sacramento&family=Whisper&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="top-container">
+            <img class="img01" src="images/sun.jpg" alt="sun-img">
+            <p class="DChLee">DChLEE</p>
+            <p style="Web">Web Developer</p>
+            <img class="img02" src="images/light.jpg" alt="light-img">
+            <img class="DChLeeImage" src="images/DchLee.png" alt="DChLee-img">
+            <img class="img03" src="images/bridge.png" alt="bridge-img">
+
+            <!--img class="img01" style="width:100px; height:70px; margin-bottom:10px;" src="images/sun.jpg" alt="sun-img">
+            <p style="font-size:1.5em; color:#31326F; font-family:Whisper; font-weight:700; margin-top:1px; margin-bottom:1px;">DChLEE</p>
+            <p style="font-size:0.5em; color:#03045E; font-weight:650; font-family:Merriweather,ital; font-weight:100; margin-top:1px; margin-bottom:1px;">Web Developer</p>
+            <!--p-- style="font-size:13px; color:#66BFBF; font-family:Times; font-weight:500"><a class="Web">Web</a> Developer</p-->
+            <!--img class="img02" style="width:100px; height:70px; margin-left:50px; margin-top:15px; margin-right:20px; margin-bottom:15px;" src="images/light.jpg" alt="light-img">
+            <img style="width:80px; height:80px; margin-top:15px; margin-bottom:15px;"  src="images/DchLee.png" alt="DChLee-img">
+            <img class="img03" style="width:100px; height:70px; margin-left:20px; margin-top:15px; margin-right:50px; margin-bottom:15px;" src="images/bridge.png" alt="bridge-img"-->
+        </div>
+
+<!--float:left; margin: 15px 10px 10px 100px;-->
+
+        <div class="middle-container">
+          <div class="profile">
+            <!--img style="width:80px; height:80px; margin-top:20px; margin-bottom:5px;"  src="images/DchLee.png" alt="DChLee-img"-->
+            <br>
+            <h1 style="font-family:Montserrat,ital; color:#005555; margin-top:5px;">Hello!</p>
+            <p style="margin-top:0px;">I am so Happy to Show Myself to You.</p>
+          </div>
+          <hr>
+          <div>
+            <h1 style="font-family:Montserrat,ital; color:#005555; margin-top:20px;">My Favorites</h1>
+            <div class="book">
+               <h2 style="font-weight:bold;">Books</h2>
+               <iframe src="https://giphy.com/embed/ESxVxc9HttIDm" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><h6 style="margin-top:1px;"><a href="https://giphy.com/gifs/black-and-white-girls-book-ESxVxc9HttIDm">via GIPHY</a></h6>
+              <!--img src="https://giphy.com/gifs/black-and-white-girls-book-ESxVxc9HttIDm" alt=Book-gif-->
+
+              <p>Wisdom Always Makes Me Vivid. By Stories of There I can Travel Wherever, Meet Whoever and Touch Whatever.</p>
+            </div>
+          <hr>
+              <br>
+            <div>
+              <h2 style="font-weight:bold;">Coding for Better Life</h2>
+              <iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><h6 style="margin-top:1px;"><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></h6>
+              <p>It is really Far and Away to Take up with Such a Various and Fast World.</p>
+            </div>
+          </div>
+          <hr>
+          <div>
+            <h1 style="font-family:Montserrat,ital; color:#005555">Sharing</h1>
+            <h2 style="font-weight:bold;">Something Together</h3>
+            <p>Interaction makes me Up and Down, but Always There are Solutions in People.</p>
+                <br>
+            <a class="btn" href="mailto:dchlee25@yahoo.com">Contact me</a>
+            <br><br><br>
+          </div>
+        </div>
+
+        <div class="bottom-container">
+          <br><br>
+          <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+          <a class="footer-link" href="https://twitter.com/">Twitter</a>
+          <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+          <h4 class="copyright">©2022 DChLee Space Network</h4>
+        </div>
+    </body>
+</html>
